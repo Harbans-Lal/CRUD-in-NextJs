@@ -1,0 +1,43 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource/roboto": "^5.0.14",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "@mui/styled-engine-sc": "^6.0.0",
+    "@mui/x-data-grid-pro": "^7.14.0",
+    "@reduxjs/toolkit": "^2.2.7",
+    "@refinedev/core": "^4.54.0",
+    "@refinedev/mui": "^5.20.0",
+    "@refinedev/react-hook-form": "^4.9.0",
+    "axios": "^1.7.5",
+    "bharat-colorify": "^1.0.0",
+    "next": "14.2.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.53.0",
+    "react-redux": "^9.1.2",
+    "styled-components": "^6.1.12",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.6",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
